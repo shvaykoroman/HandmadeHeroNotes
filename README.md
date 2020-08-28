@@ -18,3 +18,6 @@ I will following episodes coding along and writting some notes here.
 - Math how to get desired vector length.
 - Start implementing "Search in T" collision detection cuz "Search in P" too expensive and hard for this game.
 - Implementing Min and Max macros.
+
+*** DAY 48 - Line Segment Intersection collision ***
+- Created function "TestWall" for testing tile's walls.
